@@ -30,7 +30,7 @@ This is a web application that allows students to register for courses in a coll
 
 ## Folder Structure
 
-- The PHP files (`register.php`, `login.php`, `home.php`, `update_password.php`, `update_phone.php`) handle the server-side logic for registration, login, and account management.
+- The PHP files (`Registration Processing.php`, `login.php`, `home.php`, `update_password.php`, `update_phone.php`) handle the server-side logic for registration, login, and account management.
 
 ## Contributing
 
