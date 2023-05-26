@@ -1,6 +1,6 @@
 
 
-# College Registration Website
+# College Registration Website/Form
 
 This is a web application that allows students to register for courses in a college. It includes features such as registration, login, and account management.
 
