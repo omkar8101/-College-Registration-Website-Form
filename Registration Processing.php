@@ -1,7 +1,7 @@
 <?php
 $servername = "5CG9266KP8";
 $username = "sa";
-$password = "C123456789";
+$password = "Prexnyr937!khrth";
 $dbname = "Student_Information";
 
 
